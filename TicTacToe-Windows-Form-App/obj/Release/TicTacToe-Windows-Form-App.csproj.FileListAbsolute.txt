@@ -1,0 +1,9 @@
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\bin\Release\TicTacToe-Windows-Form-App.exe.config
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\bin\Release\TicTacToe-Windows-Form-App.exe
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\bin\Release\TicTacToe-Windows-Form-App.pdb
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe_Windows_Form_App.Form1.resources
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe_Windows_Form_App.Properties.Resources.resources
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe-Windows-Form-App.csproj.GenerateResource.cache
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe-Windows-Form-App.csproj.CoreCompileInputs.cache
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe-Windows-Form-App.exe
+D:\ULAB\courses\C#\TicTacToe-Windows-Form-App\TicTacToe-Windows-Form-App\obj\Release\TicTacToe-Windows-Form-App.pdb
